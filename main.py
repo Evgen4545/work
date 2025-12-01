@@ -7,7 +7,7 @@ from database import create_tables
 from bot import register_handlers
 
 # Настройки
-API_TOKEN = '8457617082:AAGTMgwJPS8S18dPi5kuqGaYfW4xV4IOagU'  # Замените на свой токен
+API_TOKEN = 'YOU_TOKEN'  # Замените на свой токен
 
 async def main():
     logging.basicConfig(level=logging.INFO)
